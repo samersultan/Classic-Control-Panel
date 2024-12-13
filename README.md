@@ -10,6 +10,6 @@ Save **Classic-Control-Panel.bat** to your drive, right click and run as adminis
 <img src="https://i.imgur.com/5yd8Xqj.png">
 
 
-Credit to reddit user r/ExcellentQuestion
+Credit to reddit user <a href="https://old.reddit.com/user/ExcellentQuestion">r/ExcellentQuestion</a>
 
  https://old.reddit.com/r/sysadmin/comments/1hb6qky/whats_your_quick_trick_that_every_sysadmin_should/m1ep1eu/
