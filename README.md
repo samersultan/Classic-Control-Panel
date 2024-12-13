@@ -12,5 +12,5 @@ Save **Classic-Control-Panel.bat** to your drive, right click and run as adminis
 
 Credit to reddit user <a href="https://old.reddit.com/user/ExcellentQuestion">u/ExcellentQuestion</a>
 
-<a href="https://old.reddit.com/r/sysadmin/comments/1hb6qky/whats_your_quick_trick_that_every_sysadmin_should/m1ep1eu/">https://old.reddit.com/r/sysadmin/comments/1hb6qky/whats_your_quick_trick_that_every_sysadmin_should/m1ep1eu/</a>
+<a href="https://old.reddit.com/r/sysadmin/comments/1hb6qky/whats_your_quick_trick_that_every_sysadmin_should/m1ep1eu/">Source Post</a>
 
