@@ -3,6 +3,9 @@
 Add direct access to control panel / network connections / power options / printers / programs and features/ sound directly to right click menu on desktop. 
 
 
+Save **Classic-Control-Panel.bat** to your drive, right click and run as administrator. 
+
+
 
 <img src="https://i.imgur.com/5yd8Xqj.png">
 
